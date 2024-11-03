@@ -1,0 +1,12 @@
+{
+  "name": "repo-prueba2610",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scss:compile": "sass assets/scss/main.scss assets/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

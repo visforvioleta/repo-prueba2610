@@ -1,0 +1,28 @@
+h1 {
+  background-color: coral;
+}
+
+ul {
+  background-color: aquamarine;
+}
+
+li {
+  font-size: 2rem;
+}
+
+footer {
+  background-color: darkmagenta;
+}
+
+h1,
+ul,
+li,
+footer {
+  margin: 0;
+  padding: 2rem;
+  border: 0;
+  box-sizing: border-box;
+  color: antiquewhite;
+}
+
+/*# sourceMappingURL=styles.css.map */
